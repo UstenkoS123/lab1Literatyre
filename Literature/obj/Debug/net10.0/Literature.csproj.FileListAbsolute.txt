@@ -1,0 +1,15 @@
+C:\Users\stas\source\repos\Literature\Literature\bin\Debug\net10.0\Literature.exe
+C:\Users\stas\source\repos\Literature\Literature\bin\Debug\net10.0\Literature.deps.json
+C:\Users\stas\source\repos\Literature\Literature\bin\Debug\net10.0\Literature.runtimeconfig.json
+C:\Users\stas\source\repos\Literature\Literature\bin\Debug\net10.0\Literature.dll
+C:\Users\stas\source\repos\Literature\Literature\bin\Debug\net10.0\Literature.pdb
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.AssemblyInfoInputs.cache
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.AssemblyInfo.cs
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.csproj.CoreCompileInputs.cache
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.dll
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\refint\Literature.dll
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.pdb
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.genruntimeconfig.cache
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\ref\Literature.dll
+C:\Users\stas\source\repos\Literature\Literature\obj\Debug\net10.0\Literature.csproj.Up2Date
